@@ -1,0 +1,15 @@
+config/*
+!config/default.*
+# 只有 config/default.js 会加入 git 的版本控制，而 config 目录下的其他配置文件则会被忽略
+npm-debug.log
+node_modules
+coverage
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
