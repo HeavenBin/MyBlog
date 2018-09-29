@@ -4,12 +4,54 @@
 
     
   <url>
+    <loc>http://blog.heavenbin.live/2018/08/17/%E5%A4%9A%E9%A1%B5%E9%9D%A2Webpack%E8%84%9A%E6%89%8B%E6%9E%B6/</loc>
+    <lastmod>2018-09-29T14:30:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>多页面Webpack4脚手架</title>
+        <pubTime>2018-08-16T16:00:00.000Z</pubTime>
+        
+        <tag>多页面</tag>
+         
+        <tag>脚手架</tag>
+         
+         
+           
+             
+              <breadCrumb title="Webpack" url="http://blog.heavenbin.live/categories/Webpack/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.heavenbin.live/2016/12/27/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0/</loc>
-    <lastmod>2018-09-29T07:10:19.000Z</lastmod>
+    <lastmod>2018-09-29T09:54:48.000Z</lastmod>
     <data>
         <display>
         <title>《JavaScript高级程序设计》第一章</title>
         <pubTime>2016-12-26T16:00:00.000Z</pubTime>
+        
+        <tag>JavaScript高级程序设计</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://blog.heavenbin.live/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.heavenbin.live/2017/01/07/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0/</loc>
+    <lastmod>2018-09-29T08:32:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>《JavaScript高级程序设计》第二章</title>
+        <pubTime>2017-01-06T16:00:00.000Z</pubTime>
         
         <tag>JavaScript高级程序设计</tag>
          
@@ -37,26 +79,6 @@
            
              
               <breadCrumb title="读书笔记" url="http://blog.heavenbin.live/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.heavenbin.live/2018/08/17/%E5%A4%9A%E9%A1%B5%E9%9D%A2Webpack%E8%84%9A%E6%89%8B%E6%9E%B6/</loc>
-    <lastmod>2018-09-03T09:01:16.000Z</lastmod>
-    <data>
-        <display>
-        <title>多页面Webpack4脚手架</title>
-        <pubTime>2018-08-16T16:00:00.000Z</pubTime>
-        
-        <tag>脚手架</tag>
-         
-         
-           
-             
-              <breadCrumb title="Webpack" url="http://blog.heavenbin.live/categories/Webpack/"/>
           
         </display>
     </data>
@@ -104,26 +126,6 @@
 
     
   <url>
-    <loc>http://blog.heavenbin.live/2017/02/26/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AB%A0/</loc>
-    <lastmod>2018-09-02T18:35:44.000Z</lastmod>
-    <data>
-        <display>
-        <title>《JavaScript高级程序设计》第四章</title>
-        <pubTime>2017-02-25T16:00:00.000Z</pubTime>
-        
-        <tag>JavaScript高级程序设计</tag>
-         
-         
-           
-             
-              <breadCrumb title="读书笔记" url="http://blog.heavenbin.live/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.heavenbin.live/2017/03/03/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%881%EF%BC%89/</loc>
     <lastmod>2018-09-02T18:35:44.000Z</lastmod>
     <data>
@@ -144,12 +146,12 @@
 
     
   <url>
-    <loc>http://blog.heavenbin.live/2017/03/05/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%882%EF%BC%89/</loc>
+    <loc>http://blog.heavenbin.live/2017/03/07/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%883%EF%BC%89/</loc>
     <lastmod>2018-09-02T18:35:44.000Z</lastmod>
     <data>
         <display>
-        <title>《JavaScript高级程序设计》第五章（2）</title>
-        <pubTime>2017-03-04T16:00:00.000Z</pubTime>
+        <title>《JavaScript高级程序设计》第五章（3）</title>
+        <pubTime>2017-03-06T16:00:00.000Z</pubTime>
         
         <tag>JavaScript高级程序设计</tag>
          
@@ -164,12 +166,12 @@
 
     
   <url>
-    <loc>http://blog.heavenbin.live/2017/03/07/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%883%EF%BC%89/</loc>
+    <loc>http://blog.heavenbin.live/2017/03/05/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%882%EF%BC%89/</loc>
     <lastmod>2018-09-02T18:35:44.000Z</lastmod>
     <data>
         <display>
-        <title>《JavaScript高级程序设计》第五章（3）</title>
-        <pubTime>2017-03-06T16:00:00.000Z</pubTime>
+        <title>《JavaScript高级程序设计》第五章（2）</title>
+        <pubTime>2017-03-04T16:00:00.000Z</pubTime>
         
         <tag>JavaScript高级程序设计</tag>
          
@@ -443,25 +445,6 @@
     </url>
 
     
-  <url>
-    <loc>http://blog.heavenbin.live/2017/01/07/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0/</loc>
-    <lastmod>2018-09-02T18:35:44.000Z</lastmod>
-    <data>
-        <display>
-        <title>《JavaScript高级程序设计》第二章</title>
-        <pubTime>2017-01-06T16:00:00.000Z</pubTime>
-        
-        <tag>JavaScript高级程序设计</tag>
-         
-         
-           
-             
-              <breadCrumb title="读书笔记" url="http://blog.heavenbin.live/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://blog.heavenbin.live/2017/05/28/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%EF%BC%881%EF%BC%89/</loc>
@@ -603,7 +586,6 @@
     </url>
 
     
-    
   <url>
     <loc>http://blog.heavenbin.live/2018/01/18/JavaScript%E6%A8%A1%E5%9D%97%E5%8C%96%E7%9A%84%E6%BC%94%E5%8F%98/</loc>
     <lastmod>2018-09-02T18:35:44.000Z</lastmod>
@@ -671,6 +653,26 @@
         <display>
         <title>《JavaScript高级程序设计》第三章（3）</title>
         <pubTime>2017-01-26T16:00:00.000Z</pubTime>
+        
+        <tag>JavaScript高级程序设计</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://blog.heavenbin.live/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.heavenbin.live/2017/02/26/%E3%80%8AJavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AB%A0/</loc>
+    <lastmod>2018-09-02T18:35:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>《JavaScript高级程序设计》第四章</title>
+        <pubTime>2017-02-25T16:00:00.000Z</pubTime>
         
         <tag>JavaScript高级程序设计</tag>
          
